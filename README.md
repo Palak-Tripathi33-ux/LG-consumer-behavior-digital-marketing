@@ -5,10 +5,15 @@
 📌 Project Overview
 
 Type: Primary + Secondary Market Research Report.
+
 Domain: Digital Marketing | Consumer Behaviour | Electronics Industry.
+
 Subject: BBA — 2nd Year / 4th Semester.
+
 Institution: PSIT College of Higher Education, Kanpur (CSJMU Affiliated).
+
 Industry Focus: LG Electronics — South Korean MNC with presence in 100+ countries.
+
 Core Question: Do LG's digital marketing strategies (social media, SEO, influencer campaigns, e-commerce) actually convert consumer awareness into purchase decisions?
 
 🎯 Business / Research Objective
@@ -122,10 +127,15 @@ Professionals at 20%, Business owners at 19%, Salaried at 6%.
 Key Findings
 
 📦 Quality > Price — 65.3% prioritise durability & reliability; only 7.9% cited price as the top factor → consumers are willing to pay a premium for dependable products.
+
 🥈 LG holds strong #2 position — 26.7% refrigerator ownership behind Samsung (37.6%); competitive but gap remains.
+
 👨‍👩‍👧 Family drives the cart — 54.5% of purchase decisions are family-influenced; appliances are a collective household investment.
+
 🎯 Youth is LG's core market — 71% of LG users fall in the 18–25 bracket, directly correlating with digital-first behaviour.
+
 ✅ High satisfaction rate — 77.2% customers satisfied, indicating strong product-market fit; 14.9% "Don't Know" signals engagement gaps.
+
 📱 Digital marketing acts as the discovery engine — online ads, YouTube demos, and influencer content initiate purchase journeys; final conversion still often happens in showrooms.
 
 💡 Recommendations
@@ -196,9 +206,13 @@ Developed understanding of LG's competitive positioning vs. Samsung, Sony, and W
 ✅ Conclusion
 
 Digital marketing is no longer just a promotional tool for LG — it is the primary consumer behaviour driver in the electronics segment.
+
 Quality + Brand Trust + Family Input form the core purchase decision triangle for LG's product categories.
+
 LG's 77.2% satisfaction rate and strong #2 position in refrigerators confirm solid brand equity — the gap vs. Samsung lies in digital storytelling, not product quality.
+
 The study confirms: digital marketing initiates the journey, but product reliability and in-store experience close the sale.
+
 Key takeaway: LG must combine its manufacturing excellence with emotionally resonant, youth-first digital campaigns to maintain and grow market share.
 
 👤 Author
