@@ -73,6 +73,7 @@ Distribution Channels
 WhatsApp groups, college email networks, and direct digital outreach.
 Enabled quick reach and mobile-friendly completion.
 
+
 📂 Key Areas Covered
 
 Digital Marketing Channels Studied: Social Media (Instagram, YouTube, Facebook), Search Engine Ads (SEO/SEM), Influencer Marketing, E-commerce platforms (Amazon, Flipkart), Email Marketing, Official Website.
@@ -86,6 +87,7 @@ Company Analysis: SWOT Analysis, Competitor mapping (Samsung, Sony, Whirlpool, H
 Consumer Behaviour Theory: Buying process stages — Awareness → Interest → Evaluation → Purchase → Satisfaction.
 
 Here's the Data Analysis & Findings section rewritten in crisp, point-wise format:
+
 
 📈 Data Analysis & Findings
 Survey Data Highlights (n = 101).
@@ -124,6 +126,7 @@ Occupational Distribution
 Students dominate at 56% — majority of respondents are young, digitally active consumers.
 Professionals at 20%, Business owners at 19%, Salaried at 6%.
 
+
 Key Findings
 
 📦 Quality > Price — 65.3% prioritise durability & reliability; only 7.9% cited price as the top factor → consumers are willing to pay a premium for dependable products.
@@ -138,6 +141,7 @@ Key Findings
 
 📱 Digital marketing acts as the discovery engine — online ads, YouTube demos, and influencer content initiate purchase journeys; final conversion still often happens in showrooms.
 
+
 💡 Recommendations
 
 Deepen influencer + demo-driven campaigns — Product demonstrations (live/digital) build confidence; LG's "Affectionate Intelligence" 2025 campaign is a step in the right direction.
@@ -149,6 +153,7 @@ Double down on the 18–25 segment — Reels, YouTube Shorts, and campus ambassa
 Leverage authorized showrooms + exchange offers — Consumers prefer buying from branded outlets; exchange deals (old appliance for new LG product at discount) were flagged as strong purchase triggers.
 
 Improve post-purchase digital engagement — Personalized follow-up emails, warranty reminders, and content marketing post-sale can convert satisfied customers into brand advocates.
+
 
 🛠️ Tools & Technologies Used
 Google Forms
@@ -176,6 +181,7 @@ Pie Charts & Bar Graphs
 
 Used as primary visual tools to represent survey data clearly.
 Covered brand ownership, age distribution, satisfaction levels, and purchase influencers.
+
 
 👩‍💻 My Contributions
 
