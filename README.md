@@ -86,8 +86,6 @@ Company Analysis: SWOT Analysis, Competitor mapping (Samsung, Sony, Whirlpool, H
 
 Consumer Behaviour Theory: Buying process stages — Awareness → Interest → Evaluation → Purchase → Satisfaction.
 
-Here's the Data Analysis & Findings section rewritten in crisp, point-wise format:
-
 
 📈 Data Analysis & Findings
 Survey Data Highlights (n = 101).
