@@ -196,7 +196,7 @@ Covered brand ownership, age distribution, satisfaction levels, and purchase inf
 
 📄 Report Writing — Authored a 71-page research report including Introduction, Literature Review, Methodology, Data Analysis, Findings, Recommendations, and Conclusion.
 
-🎤 Presentation — Designed and delivered a project presentation summarising key insights for academic submission.
+🎤 Presentation — Designed and delivered a project presentation summarising key insights.
 
 🧠 Skills Demonstrated
 Market Research, Primary Data Collection, Survey Design, Descriptive Research, Data Analysis,
