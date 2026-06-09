@@ -131,9 +131,13 @@ Key Findings
 💡 Recommendations
 
 Deepen influencer + demo-driven campaigns — Product demonstrations (live/digital) build confidence; LG's "Affectionate Intelligence" 2025 campaign is a step in the right direction.
+
 Target family decision-makers directly — Since 54.5% decisions are family-led, campaign messaging should address the collective household, not just the individual buyer.
+
 Double down on the 18–25 segment — Reels, YouTube Shorts, and campus ambassador programs can increase LG's youth stickiness vs. Samsung.
+
 Leverage authorized showrooms + exchange offers — Consumers prefer buying from branded outlets; exchange deals (old appliance for new LG product at discount) were flagged as strong purchase triggers.
+
 Improve post-purchase digital engagement — Personalized follow-up emails, warranty reminders, and content marketing post-sale can convert satisfied customers into brand advocates.
 
 🛠️ Tools & Technologies Used
