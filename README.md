@@ -39,7 +39,9 @@ Secondary:
 Hypotheses Tested
 
 There is significant consumer preference for LG within the electronics segment.
+
 Perceived product quality is the primary driver of LG purchase decisions.
+
 Family members play a critical role in the final buying decision.
 
 🔬 Methodology
