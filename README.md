@@ -166,10 +166,15 @@ Covered brand ownership, age distribution, satisfaction levels, and purchase inf
 👩‍💻 My Contributions
 
 📝 Survey Design — Developed a 6-question structured questionnaire covering demographics, brand preference, purchase influencers, and satisfaction metrics.
+
 📲 Data Collection — Collected 101 valid responses via Google Forms distributed over WhatsApp and college networks.
+
 🧹 Data Cleaning — Removed incomplete/duplicate entries; standardised categorical responses for analysis.
+
 📊 Data Analysis — Computed frequency distributions, percentages, and cross-tabulations; created all visual charts.
+
 📄 Report Writing — Authored a 76-page research report including Introduction, Literature Review, Methodology, Data Analysis, Findings, Recommendations, and Conclusion.
+
 🎤 Presentation — Designed and delivered a project presentation summarising key insights for academic submission.
 
 🧠 Skills Demonstrated
