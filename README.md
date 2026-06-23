@@ -4,7 +4,8 @@
 
 This repository hosts a comprehensive, data-driven primary and secondary market research report analyzing the **Impact of Digital Marketing Strategies on Consumer Purchase Behaviour at LG Electronics**. 
 
-Completed as an academic milestone for a Bachelor of Business Administration (BBA) degree at PSIT College of Higher Education, Kanpur, this 71-page formal project evaluates how multi-channel digital touchpoints translate into actual purchase conversions within the highly competitive Indian consumer electronics sector.
+Completed as an academic milestone for a Bachelor of Business Administration (BBA) degree at PSIT College of Higher Education, Kanpur, this 71-page formal project evaluates how multi-channel digital touchpoints translate into actual purchase conversions within the highly competitive Indian consumer electronics sector
+(derived from a 76-page original submission after removing certificates and supplementary pages).
 
 ## Business & Research Objective
 
